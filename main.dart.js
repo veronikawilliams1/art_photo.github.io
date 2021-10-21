@@ -38471,7 +38471,7 @@ $1(a){return a.a==this.a.d[this.b].a},
 $S:85}
 F.Gx.prototype={
 L(a,b){var s=null,r=X.anM(),q=K.Ty(7),p=K.Ty(7)
-return new S.w6(new D.w0(s),"Flutter Demo",X.aia(s,"SFProDisplay",new L.vz(A.b_(s,s,C.bw,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),!0,new V.av(8,7,8,7),new F.hr(4,q,new Y.d2(C.bw,1,C.X)),new F.hr(4,p,new Y.d2(C.bw,1,C.X))),new R.dh(s,s,s,s,s,s,s,s,s,s,s,s,s),r),!1,s)}}
+return new S.w6(new D.w0(s),"Art Photo",X.aia(s,"SFProDisplay",new L.vz(A.b_(s,s,C.bw,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),!0,new V.av(8,7,8,7),new F.hr(4,q,new Y.d2(C.bw,1,C.X)),new F.hr(4,p,new Y.d2(C.bw,1,C.X))),new R.dh(s,s,s,s,s,s,s,s,s,s,s,s,s),r),!1,s)}}
 E.dC.prototype={
 gaF(a){return this.a}}
 Z.uq.prototype={
